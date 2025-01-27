@@ -3,24 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E4A717F-296E-48D5-BA84-07627BD03259}|ex6for\\ex6for.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex6for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FA55C25-736A-46EA-9E6A-1FFA2E3B5D80}|ex10for\\ex10for.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex10for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA55C25-736A-46EA-9E6A-1FFA2E3B5D80}|ex10for\\ex10for.csproj|solutionrelative:ex10for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D91EE9-BEE9-4A00-944D-CD8FAD23CA37}|ex10dowhile\\ex10dowhile.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex10dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D91EE9-BEE9-4A00-944D-CD8FAD23CA37}|ex10dowhile\\ex10dowhile.csproj|solutionrelative:ex10dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87139DBB-EE42-43FC-971B-B962A1780F66}|ex10while\\ex10while.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex10while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87139DBB-EE42-43FC-971B-B962A1780F66}|ex10while\\ex10while.csproj|solutionrelative:ex10while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313F9D0C-467B-49DF-9411-58D296C770E5}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313F9D0C-467B-49DF-9411-58D296C770E5}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5FE77A-C16E-4BAB-8340-EC1BA9E8BEAB}|ex9for\\ex9for.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex9for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5FE77A-C16E-4BAB-8340-EC1BA9E8BEAB}|ex9for\\ex9for.csproj|solutionrelative:ex9for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5C8B52-8688-42AB-B683-CA44AA9C7E34}|ex9dowhile\\ex9dowhile.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex9dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5C8B52-8688-42AB-B683-CA44AA9C7E34}|ex9dowhile\\ex9dowhile.csproj|solutionrelative:ex9dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB164904-3026-447B-A5D2-B9A6FF7B4559}|ex 5 do while\\ex 5 do while.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB164904-3026-447B-A5D2-B9A6FF7B4559}|ex 5 do while\\ex 5 do while.csproj|solutionrelative:ex 5 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA38D176-1839-4C5A-BC4D-DC355ABCCC2D}|ex 4 do while\\ex 4 do while.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 4 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA38D176-1839-4C5A-BC4D-DC355ABCCC2D}|ex 4 do while\\ex 4 do while.csproj|solutionrelative:ex 4 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1D5B3-AE86-4D76-BC7F-F01CABCBB174}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF1D5B3-AE86-4D76-BC7F-F01CABCBB174}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4A717F-296E-48D5-BA84-07627BD03259}|ex6for\\ex6for.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4A717F-296E-48D5-BA84-07627BD03259}|ex6for\\ex6for.csproj|solutionrelative:ex6for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6808B15C-F576-4687-9FD8-05065BB024CB}|ex8for\\ex8for.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex8for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6808B15C-F576-4687-9FD8-05065BB024CB}|ex8for\\ex8for.csproj|solutionrelative:ex8for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8CA806-8C5E-449C-9349-C4602CF98313}|ex 7 while\\ex 7 while.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 7 while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8CA806-8C5E-449C-9349-C4602CF98313}|ex 7 while\\ex 7 while.csproj|solutionrelative:ex 7 while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{892AB51F-245C-442B-A781-C82A42D522B6}|ex6dowhile\\ex6dowhile.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{892AB51F-245C-442B-A781-C82A42D522B6}|ex6dowhile\\ex6dowhile.csproj|solutionrelative:ex6dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956DD82D-3E8B-486E-B81A-5FAED49A38CA}|ex6\\ex6.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956DD82D-3E8B-486E-B81A-5FAED49A38CA}|ex6\\ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex8 do while\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex8 do while\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7BD50F-6E45-4A80-9500-17E689117C65}|ex9while\\ex9while.csproj|c:\\users\\user_acronus\\documents\\visual studio 2022\\do while\\consoleapp1\\ex9while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7BD50F-6E45-4A80-9500-17E689117C65}|ex9while\\ex9while.csproj|solutionrelative:ex9while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD5AFD49-8085-4595-97DF-CA5D47F2DB82}|ex 5 for\\ex 5 for.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD5AFD49-8085-4595-97DF-CA5D47F2DB82}|ex 5 for\\ex 5 for.csproj|solutionrelative:ex 5 for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB164904-3026-447B-A5D2-B9A6FF7B4559}|ex 5 do while\\ex 5 do while.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB164904-3026-447B-A5D2-B9A6FF7B4559}|ex 5 do while\\ex 5 do while.csproj|solutionrelative:ex 5 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{956DD82D-3E8B-486E-B81A-5FAED49A38CA}|ex6\\ex6.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956DD82D-3E8B-486E-B81A-5FAED49A38CA}|ex6\\ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{225D10D8-17DE-4028-A7D4-647A0F9E389D}|ex5\\ex5.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B9A01F9-49FA-4579-8EB5-0E4732319A80}|ex4 for\\ex4 for.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex4 for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B9A01F9-49FA-4579-8EB5-0E4732319A80}|ex4 for\\ex4 for.csproj|solutionrelative:ex4 for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA38D176-1839-4C5A-BC4D-DC355ABCCC2D}|ex 4 do while\\ex 4 do while.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 4 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA38D176-1839-4C5A-BC4D-DC355ABCCC2D}|ex 4 do while\\ex 4 do while.csproj|solutionrelative:ex 4 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84272B5C-EF28-487E-A557-53B3FE916687}|ex4\\ex4.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5503C7D7-0B49-45DB-A402-DA61F25F9D8B}|despesas while\\despesas while.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\despesas while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5503C7D7-0B49-45DB-A402-DA61F25F9D8B}|despesas while\\despesas while.csproj|solutionrelative:despesas while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBF1D5B3-AE86-4D76-BC7F-F01CABCBB174}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBF1D5B3-AE86-4D76-BC7F-F01CABCBB174}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7161527-3E87-4605-BAC0-1CC641C3F968}|dias trabalhados\\dias trabalhados.csproj|C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\dias trabalhados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,30 +116,200 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6for\\Program.cs",
-              "RelativeDocumentMoniker": "ex6for\\Program.cs",
-              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6for\\Program.cs",
-              "RelativeToolTip": "ex6for\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABsAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex10for\\Program.cs",
+              "RelativeDocumentMoniker": "ex10for\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex10for\\Program.cs",
+              "RelativeToolTip": "ex10for\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T23:41:30.92Z",
+              "WhenOpened": "2025-01-27T22:47:49.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6dowhile\\Program.cs",
-              "RelativeDocumentMoniker": "ex6dowhile\\Program.cs",
-              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6dowhile\\Program.cs",
-              "RelativeToolTip": "ex6dowhile\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBgAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex10dowhile\\Program.cs",
+              "RelativeDocumentMoniker": "ex10dowhile\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex10dowhile\\Program.cs",
+              "RelativeToolTip": "ex10dowhile\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T23:37:57.516Z"
+              "WhenOpened": "2025-01-27T22:45:43.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex10while\\Program.cs",
+              "RelativeDocumentMoniker": "ex10while\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex10while\\Program.cs",
+              "RelativeToolTip": "ex10while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:43:00.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:39:47.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex9for\\Program.cs",
+              "RelativeDocumentMoniker": "ex9for\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex9for\\Program.cs",
+              "RelativeToolTip": "ex9for\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:34:13.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex9dowhile\\Program.cs",
+              "RelativeDocumentMoniker": "ex9dowhile\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex9dowhile\\Program.cs",
+              "RelativeToolTip": "ex9dowhile\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:17:31.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex8for\\Program.cs",
+              "RelativeDocumentMoniker": "ex8for\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex8for\\Program.cs",
+              "RelativeToolTip": "ex8for\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:08:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 7 while\\Program.cs",
+              "RelativeDocumentMoniker": "ex 7 while\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 7 while\\Program.cs",
+              "RelativeToolTip": "ex 7 while\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:37:02.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6for\\Program.cs",
+              "RelativeDocumentMoniker": "ex6for\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6for\\Program.cs",
+              "RelativeToolTip": "ex6for\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:41:30.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 4 do while\\Program.cs",
+              "RelativeDocumentMoniker": "ex 4 do while\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 4 do while\\Program.cs",
+              "RelativeToolTip": "ex 4 do while\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:07:32.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 do while\\Program.cs",
+              "RelativeDocumentMoniker": "ex 5 do while\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 do while\\Program.cs",
+              "RelativeToolTip": "ex 5 do while\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:24:02.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:57:06.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex9while\\Program.cs",
+              "RelativeDocumentMoniker": "ex9while\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex9while\\Program.cs",
+              "RelativeToolTip": "ex9while\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:15:56.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex8 do while\\Program.cs",
+              "RelativeDocumentMoniker": "ex8 do while\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex8 do while\\Program.cs",
+              "RelativeToolTip": "ex8 do while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:47:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6dowhile\\Program.cs",
+              "RelativeDocumentMoniker": "ex6dowhile\\Program.cs",
+              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6dowhile\\Program.cs",
+              "RelativeToolTip": "ex6dowhile\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:37:57.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex6\\Program.cs",
               "RelativeDocumentMoniker": "ex6\\Program.cs",
@@ -111,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 for\\Program.cs",
               "RelativeDocumentMoniker": "ex 5 for\\Program.cs",
@@ -123,19 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 do while\\Program.cs",
-              "RelativeDocumentMoniker": "ex 5 do while\\Program.cs",
-              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 5 do while\\Program.cs",
-              "RelativeToolTip": "ex 5 do while\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T23:24:02.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex5\\Program.cs",
               "RelativeDocumentMoniker": "ex5\\Program.cs",
@@ -147,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex4 for\\Program.cs",
               "RelativeDocumentMoniker": "ex4 for\\Program.cs",
@@ -159,19 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 4 do while\\Program.cs",
-              "RelativeDocumentMoniker": "ex 4 do while\\Program.cs",
-              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex 4 do while\\Program.cs",
-              "RelativeToolTip": "ex 4 do while\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T23:07:32.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ex4\\Program.cs",
               "RelativeDocumentMoniker": "ex4\\Program.cs",
@@ -183,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\despesas For\\Program.cs",
               "RelativeDocumentMoniker": "despesas For\\Program.cs",
@@ -195,19 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ConsoleApp2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T21:57:06.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\despesas while\\Program.cs",
               "RelativeDocumentMoniker": "despesas while\\Program.cs",
@@ -219,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\dias trabalhados for\\Program.cs",
               "RelativeDocumentMoniker": "dias trabalhados for\\Program.cs",
@@ -231,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\dias trabalhados\\Program.cs",
               "RelativeDocumentMoniker": "dias trabalhados\\Program.cs",
@@ -243,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user_acronus\\Documents\\Visual Studio 2022\\do while\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",

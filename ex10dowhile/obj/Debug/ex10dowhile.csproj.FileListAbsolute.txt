@@ -1,0 +1,7 @@
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex10dowhile\bin\Debug\ex10dowhile.exe.config
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex10dowhile\bin\Debug\ex10dowhile.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex10dowhile\bin\Debug\ex10dowhile.pdb
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex10dowhile\obj\Debug\ex10dowhile.csproj.AssemblyReference.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex10dowhile\obj\Debug\ex10dowhile.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex10dowhile\obj\Debug\ex10dowhile.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex10dowhile\obj\Debug\ex10dowhile.pdb

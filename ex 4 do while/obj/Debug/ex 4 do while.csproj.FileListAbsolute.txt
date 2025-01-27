@@ -1,0 +1,7 @@
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex 4 do while\bin\Debug\ex 4 do while.exe.config
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex 4 do while\bin\Debug\ex 4 do while.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex 4 do while\bin\Debug\ex 4 do while.pdb
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex 4 do while\obj\Debug\ex 4 do while.csproj.AssemblyReference.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex 4 do while\obj\Debug\ex 4 do while.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex 4 do while\obj\Debug\ex 4 do while.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex 4 do while\obj\Debug\ex 4 do while.pdb

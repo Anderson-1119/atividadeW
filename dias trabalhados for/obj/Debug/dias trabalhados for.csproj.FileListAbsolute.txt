@@ -1,0 +1,7 @@
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\dias trabalhados for\bin\Debug\dias trabalhados for.exe.config
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\dias trabalhados for\bin\Debug\dias trabalhados for.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\dias trabalhados for\bin\Debug\dias trabalhados for.pdb
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\dias trabalhados for\obj\Debug\dias trabalhados for.csproj.AssemblyReference.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\dias trabalhados for\obj\Debug\dias trabalhados for.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\dias trabalhados for\obj\Debug\dias trabalhados for.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\dias trabalhados for\obj\Debug\dias trabalhados for.pdb

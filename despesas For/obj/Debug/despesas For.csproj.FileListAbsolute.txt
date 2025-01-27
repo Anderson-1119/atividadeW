@@ -1,0 +1,7 @@
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\despesas For\bin\Debug\despesas For.exe.config
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\despesas For\bin\Debug\despesas For.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\despesas For\bin\Debug\despesas For.pdb
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\despesas For\obj\Debug\despesas For.csproj.AssemblyReference.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\despesas For\obj\Debug\despesas For.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\despesas For\obj\Debug\despesas For.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\despesas For\obj\Debug\despesas For.pdb

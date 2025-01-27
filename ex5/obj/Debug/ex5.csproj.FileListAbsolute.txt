@@ -1,0 +1,7 @@
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex5\bin\Debug\ex5.exe.config
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex5\bin\Debug\ex5.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex5\bin\Debug\ex5.pdb
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex5\obj\Debug\ex5.csproj.AssemblyReference.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex5\obj\Debug\ex5.exe
+C:\Users\user_acronus\Documents\Visual Studio 2022\do while\ConsoleApp1\ex5\obj\Debug\ex5.pdb
